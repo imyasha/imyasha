@@ -1,5 +1,10 @@
 ### Hi there 👋
 
-**imyasha/imyasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Funny thing
+ 1/3 = 0.(3)
+ 
+1 = 1 / 3 * 3 = 0.(3) * 3 = 0.(9)
+
+Is this correct?  😀😁😂🤣😃
 
 
