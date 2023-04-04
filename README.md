@@ -1,4 +1,3 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matthew Nguyen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyasha&color=blue" alt="Profile views" /> </p>
 
 ### <img height="30" src="https://user-images.githubusercontent.com/77757301/126855288-0264f667-f8be-4c1d-9fe0-d0049d751dba.gif"> Languages and tools: 
